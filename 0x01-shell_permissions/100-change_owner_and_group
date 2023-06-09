@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent,chrgp staff
+chown -R vincent,chrgp -R staff .
